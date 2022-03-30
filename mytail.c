@@ -27,15 +27,8 @@ int main(int argc, char *argv[])
 		return 0;
 	}
 	char *lines[n];
+
 	c = 0;
-	
-/*
-	printf("debug info:\n");
-	printf("argv[0] = %s\n", argv[0]);
-	printf("argv[1] = %s\n", argv[1]);
-	printf("argv[2] = %s\n", argv[2]);
-	printf("\"n\" argument = %d\n", n);
-*/
 	l = 0;
 
 	while (c != EOF) {
