@@ -48,10 +48,7 @@ int main(int argc, char *argv[])
 		}
     }
     
-/*
-    testing commiting
-*/
-    
+
 	if (l <= n) {
 		for (i = 0; i < l; i++) {
 			printf("%s", lines[i]);
