@@ -48,6 +48,10 @@ int main(int argc, char *argv[])
 		}
     }
     
+/*
+    btytrsedyutrerstdyfhgfcdvtdvrst
+    * hello everyone
+*/
 
 	if (l <= n) {
 		for (i = 0; i < l; i++) {
